@@ -1,0 +1,25 @@
+# MAHAONLINE Website Configuration
+title: MAHAONLINE
+desription: Digital Online Service Center - All Online Services at One Place
+theme: jekyll-theme-minimal
+
+# Site settings
+url: "https://amangoyal2100-png.github.io"
+baseurl: "/MAHAONLINE"
+
+# Owner Information
+owner: Atish Satish Petkar
+phone: "+91 8839932268"
+address: "7 Parasram Marg, Gandhi Nagar, Indore 453112"
+opening_hours: "10:00am to 08:00pm"
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files from build
+exclude:
+  - .gitignore
+  - README.md
